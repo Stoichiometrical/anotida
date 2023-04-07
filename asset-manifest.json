@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anotida/static/css/main.046166c0.css",
+    "main.js": "/anotida/static/js/main.a4c5a828.js",
+    "index.html": "/anotida/index.html",
+    "main.046166c0.css.map": "/anotida/static/css/main.046166c0.css.map",
+    "main.a4c5a828.js.map": "/anotida/static/js/main.a4c5a828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046166c0.css",
+    "static/js/main.a4c5a828.js"
+  ]
+}
